@@ -1,2 +1,3 @@
-# m.a.t
-Mitigation and Threats : AI -powered penetration testing assistant 
+# MITIGUARD : : AI -powered security assistant 
+Threat mitigation simplified
+

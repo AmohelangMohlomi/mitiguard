@@ -1,3 +1,3 @@
-# MITIGUARD : : AI -powered security assistant 
+# MITIGUARD : AI -powered security assistant 
 Threat mitigation simplified
 
